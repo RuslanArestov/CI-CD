@@ -1,4 +1,4 @@
-## «Что такое DevOps. СI/СD» - Arestov Ruslan
+d## «Что такое DevOps. СI/СD» - Arestov Ruslan
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
 
@@ -17,7 +17,12 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-####Р**Решение**
+#### **Решение**
+
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/result_assembling.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/repository_git.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/branch.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/shell.png)
 
 ### Задание 2
 Что нужно сделать:
@@ -26,7 +31,10 @@
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-####Р**Решение**
+#### **Решение**
+
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/script pipeline.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipeline.png)
 
 ## Задание 3
 Что нужно сделать:
@@ -37,4 +45,4 @@
 Загрузите файл в репозиторий с помощью jenkins.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-####**Решение**
+#### **Решение**
