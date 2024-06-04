@@ -19,9 +19,9 @@ d## «Что такое DevOps. СI/СD» - Arestov Ruslan
 
 #### **Решение**
 
-![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/result_assembling.png)
-![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/repository_git.png)
-![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/branch.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/result_assembling.png) \
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/repository_git.png) \
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/branch.png) \
 ![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/shell.png)
 
 ### Задание 2
@@ -33,7 +33,7 @@ d## «Что такое DevOps. СI/СD» - Arestov Ruslan
 
 #### **Решение**
 
-![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/script pipeline.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/script_pipeline.png) \
 ![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipeline.png)
 
 ## Задание 3
@@ -46,3 +46,5 @@ d## «Что такое DevOps. СI/СD» - Arestov Ruslan
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 #### **Решение**
+
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipiline_job3.png)
