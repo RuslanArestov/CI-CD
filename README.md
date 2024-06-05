@@ -47,4 +47,4 @@
 
 #### **Решение**
 
-![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipiline_job3.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipe.png)
