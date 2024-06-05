@@ -48,3 +48,4 @@
 #### **Решение**
 
 ![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/pipe.png)
+![alt text](https://github.com/RuslanArestov/CI-CD/tree/main/images/repo.png)
